@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        Please do not hesitate to reach out to be if you have any questions, or simply have a chat.
+        Please do not hesitate to reach out to me if you have any questions, or simply have a chat.
         My DMs are always open!
       </p>
 
