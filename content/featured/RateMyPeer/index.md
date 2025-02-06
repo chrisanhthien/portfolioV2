@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Rate My Peers'
-cover: './demo.jpg'
+cover: './demo.png'
 github: 'https://github.com/JayC-SF/GoVite.Inc-SOEN341_Project_F24'
 external: 'https://github.com/JayC-SF/GoVite.Inc-SOEN341_Project_F24'
 tech:
