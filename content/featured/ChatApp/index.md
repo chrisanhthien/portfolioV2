@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Chat App'
-cover: './demo.png'
+cover: './demo.jpg'
 github: 'https://github.com/chrisanhthien/Chat-App'
 external: 'https://github.com/chrisanhthien/Chat-App'
 tech:

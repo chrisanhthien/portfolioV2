@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Sorting Algorithms Visualizer'
-cover: './demo.png'
+cover: './demo.jpg'
 external: 'https://github.com/chrisanhthien/Sorting-Visualizer'
 cta: 'https://github.com/chrisanhthien/Sorting-Visualizer'
 tech:
