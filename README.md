@@ -1,6 +1,6 @@
 # Portfolio - v2
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/18a79bf9-7fde-4602-8707-2b4620a0ab63/deploy-status)](https://app.netlify.com/sites/ducngn/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6eec60e3-b3f4-453d-a0a8-dcfffa27baec/deploy-status)](https://app.netlify.com/sites/christhiennguyen/deploys)
 
 - 2nd iteration of my portfolio website.
 - Adapted design from [Brittany Chiang](https://github.com/bchiang7/v4)
